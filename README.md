@@ -8,10 +8,10 @@ Steps:
 2. Click on "New Document" <br/>
 ![click new document](src/resources/img/script_editor_pre_window.png?raw=true "Click New Document in Script Editor")
 
-3. It will open a window like this:
+3. It will open a window like this: <br/>
 ![script editor blank window](src/resources/img/script_editor_window_without_code.png?raw=true "Script Editor Blank Window")
 
-4. Paste this code to the editor area:
+4. Paste this code to the editor area: <br/>
   ```
   tell application "System Events"
 	  delay 2
@@ -24,11 +24,11 @@ Steps:
   end tell
 ```
 
-It will look like this:
+It will look like this: <br/>
 ![script editor with code](src/resources/img/script_editor_window_with_code.png?raw=true "Script Editor with code")
 
-5. Enter the code and press run.
+5. Enter the code and press run. <br/>
 
-6. Go to chrome and open tinder. Make sure cursor focus is on tinder page.
+6. Go to chrome and open tinder. Make sure cursor focus is on tinder page. <br/>
 
 7. Sit back and enjoy.
