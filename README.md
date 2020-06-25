@@ -35,3 +35,5 @@ It will look like this: <br/>
 6. Go to the tinder page on the web browser. Make sure cursor focus is on tinder page. <br/>
 
 7. Sit back and relax!
+
+PS: It can be used for other dating apps like innercircle or bumble etc.
