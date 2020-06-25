@@ -1,7 +1,7 @@
 # automatic-tinder-swipe-macbook
 Automatic tinder swipe script for macbook
 
-Steps:
+Steps: </br>
 0. Before starting the script, make sure you are logged in to tinder via web browser.
 
 1. Press "Command" key + "Space" key, enter script editor in the prompt. Press "Enter" key to open it. <br/>
