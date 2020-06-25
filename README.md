@@ -27,8 +27,9 @@ Steps:
 It will look like this: <br/>
 ![script editor with code](src/resources/img/script_editor_window_with_code.png?raw=true "Script Editor with code")
 
-5. Enter the code and press run. <br/>
+5. Press run button. <br/>
+![run button](src/resources/img/script_editor_run_script_button.png?raw=true "Run Button")
 
-6. Go to chrome and open tinder. Make sure cursor focus is on tinder page. <br/>
+6. Go to the web browser and open tinder. Make sure cursor focus is on tinder page. <br/>
 
 7. Sit back and enjoy.
