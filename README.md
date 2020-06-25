@@ -2,10 +2,10 @@
 Automatic tinder swipe script for macbook
 
 Steps:
-1. Press "Command" key + "Space" key, enter script editor in the prompt. Press "Enter" key to open it.
+1. Press "Command" key + "Space" key, enter script editor in the prompt. Press "Enter" key to open it. <br/>
 ![open script editor](src/resources/img/open_script_editor.png?raw=true "Open Script Editor")
 
-2. Click on "New Document"
+2. Click on "New Document" <br/>
 ![click new document](src/resources/img/script_editor_pre_window.png?raw=true "Click New Document in Script Editor")
 
 3. It will open a window like this:
