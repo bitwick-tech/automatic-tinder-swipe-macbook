@@ -34,4 +34,4 @@ It will look like this: <br/>
 
 6. Go to the tinder page on the web browser. Make sure cursor focus is on tinder page. <br/>
 
-7. Sit back and enjoy.
+7. Sit back and relax!
