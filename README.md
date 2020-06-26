@@ -17,14 +17,15 @@ Steps: </br>
 4. Paste this code to the editor area: <br/>
   ```
   tell application "System Events"
-	  delay 2
-	  repeat with i from 1 to 1000
-      delay 0.5
-      keystroke (key code 126)
-      delay 1
-      keystroke (key code 124)
-	  end repeat
-  end tell
+	delay 2
+	repeat with i from 1 to 1000
+		delay 0.5
+		keystroke (key code 126)
+		delay 1
+		keystroke (key code 124)
+	end repeat
+end tell
+
 ```
 
 It will look like this: <br/>
